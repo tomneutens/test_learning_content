@@ -29,17 +29,17 @@
         {
           "default": true,
           "next": {
-            "hruid": "extern_in_other_object",
-            "version": "1",
+            "hruid": "Lkr_lcd_Voorbeeld-v1",
+            "version": "3",
             "language": "nl"
           }
         }
       ]
     },
     {
-      "learningobject_hruid": "extern_in_other_object",
+      "learningobject_hruid": "Lkr_lcd_Voorbeeld-v1",
       "language": "nl",
-      "version": "1"
+      "version": "3"
     }
   ]
 }
