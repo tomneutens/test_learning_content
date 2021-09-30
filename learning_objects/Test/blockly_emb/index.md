@@ -30,9 +30,9 @@ skos_concepts: [
 ]
 ---
 First blockly view
-![blockly](@@learning-object/blockly-test-1/nl/1)
+![blockly](@learning-object/blockly-test-1/nl/1)
 
 Second blockly view
-![blockly](@@learning-object/blockly-test-2/nl/1)
+![blockly](@learning-object/blockly-test-2/nl/1)
 
 
