@@ -1,5 +1,5 @@
 ---
-hruid: blockly-test-combined
+hruid: blockly-test-1
 version: 1
 language: nl
 title: This is a titlee
@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: Copyright by Jerro
 licence: Licenced by Jerro
-content_type: text/markdown
+content_type: blockly
 available: true
 target_ages: [4, 3]
 difficulty: 3
@@ -29,10 +29,3 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
 ]
 ---
-First blockly view
-![blockly](@learning_object/blockly-test-1/nl/1)
-
-Second blockly view
-![blockly](@learning_object/blockly-test-2/nl/1)
-
-
