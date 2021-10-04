@@ -14,7 +14,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "extern-test-v1",
+              "hruid": "org-dwengo-jommeke-images-spot",
               "version": "1",
               "language": "nl"
             }
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "learningobject_hruid": "extern-test-v1",
+        "learningobject_hruid": "org-dwengo-jommeke-images-spot",
         "language": "nl",
         "version": "1",
         "transitions": [
