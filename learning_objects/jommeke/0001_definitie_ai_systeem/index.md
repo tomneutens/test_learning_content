@@ -28,23 +28,3 @@ Om te begrijpen wat een AI-systeem is, moeten we eerst begrijpen waar de beperki
 Omdat AI-systemen zelf regels kunnen leren zijn ze in staat taken uit te voeren die vroeger enkel mogelijk waren voor de mens. Daarom definieert het europees parlement AI-systemen als volgt.
 
 > AI is de mogelijkheid van een machine om mensachtige vaardigheden te vertonen - zoals redeneren, leren, plannen en creativiteit. <div style="text-align: right">Bron: [Europees parlement](https://www.europarl.europa.eu/news/nl/headlines/society/20200827STO85804/wat-is-artificiele-intelligentie-en-hoe-wordt-het-gebruikt#:~:text=AI%20is%20de%20mogelijkheid%20van,%2C%20leren%2C%20plannen%20en%20creativiteit.&text=AI%2Dsystemen%20zijn%20in%20staat,analyseren%20en%20autonoom%20te%20werken)</div>
-
-#### Spot
-![](@learning-object/org-dwengo-jommeke-images-spot/nl/1) \
-"Spot is een vierpotige robot van het bedrijf Boston Dynamics.
-
-#### Nest thermostaat
-![](@learning-object/org-dwengo-jommeke-images-nest-thermostat/nl/1) \
-Google Nest is een slimme thermostaat die de temperatuur automatisch aanpast aan je gedrag.
-
-#### Tesla model 3
-![](@learning-object/org-dwengo-jommeke-images-tesla-model-3/nl/1) \
-De Tesla model 3 heeft een automatische piloot die sterk afhankelijk is van AI-systemen.
-
-#### Shazam
-![](@learning-object/org-dwengo-jommeke-images-shazam-logo/nl/1) \
-Shazam heeft geleerd om op basis van korte stukjes opgenomen audio te voorspellen welk liedje er speelt.
-
-#### TicTok
-![](@learning-object/org-dwengo-jommeke-images-tictok-logo/nl/1) \
-TicTok maakt gebruik van AI-systemen om te voorspellen welke filmpjes jij leuk zal vinden. Op die manier zorgen ze ervoor dat je blijft kijken. ;-)
