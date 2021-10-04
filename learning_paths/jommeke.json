@@ -39,7 +39,22 @@
       {
         "learningobject_hruid": "org-dwengo-jommeke-fouten-van-ai-systemen",
         "language": "nl",
-        "version": "1"
+        "version": "1",
+        "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "test-v2",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "test-v2",
+          "language": "nl",
+          "version": 1
       }
     ]
   }

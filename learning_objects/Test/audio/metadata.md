@@ -1,6 +1,6 @@
 ---
 hruid: test-v2
-version: 3
+version: 1
 language: nl
 title: This is a titlee
 description: This is a description
@@ -11,7 +11,7 @@ educational_goals: [
 ]
 copyright: Copyright by Jerro
 licence: Licenced by Jerro
-content_type: audio/mpeg
+content_type: application/pdf
 available: true
 target_ages: [4, 3]
 difficulty: 3
