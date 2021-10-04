@@ -44,7 +44,7 @@
             {
                 "default": true,
                 "next":{
-                    "hruid": "test-v2",
+                    "hruid": "test-pdf-as-lo",
                     "version": "1",
                     "language": "nl"
                 }
@@ -52,7 +52,7 @@
         ]
       },
       {
-          "learningobject_hruid": "test-v2",
+          "learningobject_hruid": "test-pdf-as-lo",
           "language": "nl",
           "version": 1
       }
