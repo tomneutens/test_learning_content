@@ -16,10 +16,9 @@ skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/onddoel/sec-gr1-astroom-digitale-competenties-en-mediawijsheid-4.5',
 
 ],
-copyright: "CC BY dwengo",
+copyright: "CC BY dwengo"
 target_ages: [10, 11, 12, 13]
 ---
-
 
 
 Een AI-systeem?
