@@ -14,7 +14,7 @@
           {
             "default": true,
             "next": {
-              "hruid": "bouwen_van_een_tekenrobot",
+              "hruid": "extern-test-v1",
               "version": "1",
               "language": "nl"
             }
@@ -22,24 +22,24 @@
         ]
       },
       {
-        "learningobject_hruid": "bouwen_van_een_tekenrobot",
+        "learningobject_hruid": "extern-test-v1",
         "language": "nl",
         "version": "1",
         "transitions": [
           {
             "default": true,
             "next": {
-              "hruid": "test-v1",
-              "version": "3",
+              "hruid": "extern-test-v1",
+              "version": "1",
               "language": "nl"
             }
           }
         ]
       },
       {
-        "learningobject_hruid": "test-v1",
+        "learningobject_hruid": "extern-test-v1",
         "language": "nl",
-        "version": "3"
+        "version": "1"
       }
     ]
   }
