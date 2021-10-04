@@ -2,30 +2,21 @@
 hruid: blockly-test-1
 version: 1
 language: nl
-title: This is a titlee
-description: This is a description
-keywords: [voorbeeld, voorbeeld2]
-educational_goals: [
-    {source: Source, id: id}, 
-    {source: Source2, id: id2}
-]
-copyright: Copyright by Jerro
-licence: Licenced by Jerro
+title: "Hello dwenguino on lcd"
+description: "This program shows the text hello dwenguino on the lcd screen of the dwenguino microcontroller"
+keywords: ["dwenguino", "blockly", "program", "code", "microcontroller", "lcd", "hello world"]
+copyright: "CC BY dwengo"
 content_type: blockly
-available: true
-target_ages: [4, 3]
-difficulty: 3
-return_value: {
-    callback_url: callback-url-example,
-    callback_schema: {
-        att: test,
-        att2: test2
-    }
-}
-content_location: example-location
-estimated_time: 20
+target_ages: [10, 11, 12, 13]
+difficulty: 2
+estimated_time: 1
 skos_concepts: [
-    'http://ilearn.ilabt.imec.be/vocab/curr1/c-andere-talen', 
-    'http://ilearn.ilabt.imec.be/vocab/ondniv/sec-gr2-doorstroom-aso'
+    'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
+    'http://ilearn.ilabt.imec.be/vocab/curr1/s-mediawijsheid',
+    'http://ilearn.ilabt.imec.be/vocab/tref1/ict',
+    'http://ilearn.ilabt.imec.be/vocab/curr1/c-digitale-competenties-en-mediawijsheid',
+    'http://ilearn.ilabt.imec.be/vocab/onddoel/sec-gr1-astroom-digitale-competenties-en-mediawijsheid-4.5',
+
 ]
 ---

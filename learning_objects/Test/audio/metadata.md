@@ -5,8 +5,7 @@ language: nl
 title: "This is a titlee"
 description: "This is a description"
 keywords: ["voorbeeld", "voorbeeld2"]
-copyright: "Copyright by Jerro"
-licence: "Licenced by Jerro"
+copyright: CC BY dwengo"
 content_type: "application/pdf"
 target_ages: [4, 3]
 difficulty: 3
