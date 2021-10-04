@@ -1,12 +1,12 @@
 ---
-hruid: org-dwengo-jommeke-video-deep-fake
+hruid: org-dwengo-jommeke-fake-review
 version: 1
 language: nl
-title: "Deep fake"
-description: "AI-systemen op basis van diepe neurale netwerken zijn in staat om gezichten in video's te vervangen."
-keywords: ["deep fake", "AI-systeem", "artificiële intelligentie"]
+title: "Valse IPhone review"
+description: "AI-systemen zijn in staat om te leren een review te schrijven."
+keywords: ["tekst generatie", "AI-systeem", "artificiële intelligentie"]
 content_type: "extern"
-estimated_time: 1
+estimated_time: 6
 skos_concepts: [
     'http://ilearn.ilabt.imec.be/vocab/vak1/informatica-wetenschappen', 
     'http://ilearn.ilabt.imec.be/vocab/curr1/s-computers-en-systemen',
@@ -18,7 +18,7 @@ skos_concepts: [
 ]
 copyright: "CC BY dwengo"
 target_ages: [10, 11, 12, 13]
-content_location: "https://www.youtube.com/embed/l8JC2R3sbsk"
+content_location: "https://notrealnews.net/iphonese2020review/"
 ---
 
 
