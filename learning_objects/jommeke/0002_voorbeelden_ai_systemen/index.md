@@ -24,6 +24,8 @@ target_ages: [10, 11, 12, 13]
 Voorbeelden van AI-systemen
 ===============
 
+Hieronder zie je een aantal afbeeldingen van toepassingen die gebruik maken van AI-systemen. 
+
 #### Spot
 ![](@learning-object/org-dwengo-jommeke-images-spot/nl/1) \
 "Spot is een vierpotige robot van het bedrijf Boston Dynamics.
