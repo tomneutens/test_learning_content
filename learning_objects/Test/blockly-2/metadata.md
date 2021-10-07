@@ -14,7 +14,7 @@ licence: Licenced by Jerro
 content_type: blockly
 available: true
 target_ages: [4, 3]
-difficulty: 3
+difficulty: 4
 return_value: {
     callback_url: callback-url-example,
     callback_schema: {

@@ -50,4 +50,4 @@ AI-systemen maken het ook mogelijk om gemakkelijk nieuwsartikels te schrijven. D
 
 ![](@learning-object/org-dwengo-jommeke-fake-review/nl/1)
 
-test test test test
+
