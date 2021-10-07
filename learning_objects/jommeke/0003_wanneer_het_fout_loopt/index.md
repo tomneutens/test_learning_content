@@ -49,3 +49,5 @@ Fake news
 AI-systemen maken het ook mogelijk om gemakkelijk nieuwsartikels te schrijven. Deze artikels zijn vaak echter niet gebaseerd op echte feiten. Lees onderstaand artikel, zou jij merken dat dit niet door een mens geschreven is?
 
 ![](@learning-object/org-dwengo-jommeke-fake-review/nl/1)
+
+test
