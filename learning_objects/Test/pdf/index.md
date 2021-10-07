@@ -32,4 +32,4 @@ estimated_time: 20
 [pdf](pdfs/ver/vergadering.pdf "dit is een pdf")
 ![](pdfs/ver/vergadering.pdf)
 
-test
+test test
