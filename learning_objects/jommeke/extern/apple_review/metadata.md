@@ -19,6 +19,7 @@ skos_concepts: [
 copyright: "CC BY dwengo"
 target_ages: [10, 11, 12, 13]
 content_location: "https://notrealnews.net/iphonese2020review/"
+aspect_ratio: iframe-1-2
 ---
 
 
