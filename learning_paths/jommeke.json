@@ -164,7 +164,37 @@
             {
                 "default": true,
                 "next":{
-                    "hruid": "org-dwengo-jommeke-inkleuren-afbeelding-4",
+                    "hruid": "org-dwengo-jommeke-zelf-aan-de-slag",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-zelf-aan-de-slag",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-turingtest",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-turingtest",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-turingtest",
                     "version": "1",
                     "language": "nl"
                 }
