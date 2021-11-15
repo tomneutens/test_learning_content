@@ -20,3 +20,10 @@ copyright: "CC BY dwengo"
 target_ages: [10, 11, 12, 13]
 ---
 
+Reflectie
+----------
+Denk eens na over de mogelijke nadelen van AI-systemen. Voor welke problemen kunnen bovenstaande voorbeelden zorgen? Lijst er een aantal op:
+
+<textarea id="reflectie_ai_systemen" name="reflectie_ai_systemen" rows="10" cols="70">
+
+</textarea>
