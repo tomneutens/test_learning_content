@@ -44,7 +44,7 @@
             {
                 "default": true,
                 "next":{
-                    "hruid": "test-pdf-as-lo",
+                    "hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
                     "version": "1",
                     "language": "nl"
                 }
@@ -52,9 +52,34 @@
         ]
       },
       {
-          "learningobject_hruid": "test-pdf-as-lo",
+          "learningobject_hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
           "language": "nl",
-          "version": "1"
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
       }
     ]
   }
