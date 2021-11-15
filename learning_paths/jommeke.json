@@ -209,12 +209,32 @@
             {
                 "default": true,
                 "next":{
-                    "hruid": "org-dwengo-jommeke-turingtest-oplossing",
+                    "hruid": "org-dwengo-jommeke-andere-strips",
                     "version": "1",
                     "language": "nl"
                 }
             }
         ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-andere-strips",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
+                    "hruid": "org-dwengo-jommeke-zelf-tekening-maken",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-zelf-tekening-maken",
+          "language": "nl",
+          "version": "1"
       }
     ]
   }
