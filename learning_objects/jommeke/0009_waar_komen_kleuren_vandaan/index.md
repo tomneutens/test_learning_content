@@ -1,8 +1,8 @@
 ---
-hruid: org-dwengo-jommeke-inkleuren-afbeelding-mario
+hruid: org-dwengo-jommeke-inkleuren-afbeelding-3
 version: 1
 language: nl
-title: "Foto's inkleuren"
+title: "Foto's inkleuren (3)"
 description: "Is de mens accurater dan een AI-systeem?"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
