@@ -28,15 +28,15 @@ We hebben voor ons AI-systeem ook een soort van Turingtest opgesteld. Kan jij in
 
 | **Afbeelding** | **Origineel of gegenereerd?** |
 |---|-|
-|![Vraag 1](./img/turing/original/1.png)| |
-|![Vraag 2](./img/turing/generated/7.png)| |
-|![Vraag 3](./img/turing/generated/11.png)| |
-|![Vraag 4](./img/turing/generated/2.png)| |
-|![Vraag 5](./img/turing/original/5.png)| |
-|![Vraag 6](./img/turing/original/9.png)| |
-|![Vraag 7](./img/turing/generated/3.png)| |
-|![Vraag 8](./img/turing/original/10.png)| |
-|![Vraag 9](./img/turing/generated/8.png)| |
-|![Vraag 10](./img/turing/generated/9.png)| |
-|![Vraag 11](./img/turing/generated/14.png)| |
-|![Vraag 11](./img/turing/original/4.png)| |
+|![Vraag 1](img/turing/original/1.png)| |
+|![Vraag 2](img/turing/generated/7.png)| |
+|![Vraag 3](img/turing/generated/11.png)| |
+|![Vraag 4](img/turing/generated/2.png)| |
+|![Vraag 5](img/turing/original/5.png)| |
+|![Vraag 6](img/turing/original/9.png)| |
+|![Vraag 7](img/turing/generated/3.png)| |
+|![Vraag 8](img/turing/original/10.png)| |
+|![Vraag 9](img/turing/generated/8.png)| |
+|![Vraag 10](img/turing/generated/9.png)| |
+|![Vraag 11](img/turing/generated/14.png)| |
+|![Vraag 11](img/turing/original/4.png)| |
