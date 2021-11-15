@@ -28,9 +28,9 @@ We hebben voor ons AI-systeem ook een soort van Turingtest opgesteld. Kan jij in
 
 | **Afbeelding** | **Origineel of gegenereerd?** |
 |---------------------------|---|
-| ![Vraag 1](img/turing/original/1.png) | test |
-| ![Vraag 2](img/turing/generated/7.png) | test |
-| ![Vraag 3](img/turing/generated/11.png) | |
+| ![](img/turing/original/1.png "Vraag 1") | test |
+| ![](img/turing/generated/7.png) "Vraag 2" | test |
+| ![](img/turing/generated/11.png) "Vraag 3" | |
 | ![Vraag 4](img/turing/generated/2.png) | |
 | ![Vraag 5](img/turing/original/5.png)| |
 | ![Vraag 6](img/turing/original/9.png)| |
