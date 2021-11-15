@@ -27,7 +27,7 @@ Al in 1936 bedacht Alan Turing een test om te bepalen in hoeverre een computersy
 We hebben voor ons AI-systeem ook een soort van Turingtest opgesteld. Kan jij in onderstaande vragen aanduiden welke van de afbeeldingen het origineel is?
 
 | **Afbeelding** | **Origineel of gegenereerd?** |
-|---------------------------|----|
+|---------------------------|---|
 | ![Vraag 1](img/turing/original/1.png) | test |
 | ![Vraag 2](img/turing/generated/7.png) | |
 | ![Vraag 3](img/turing/generated/11.png) | |
