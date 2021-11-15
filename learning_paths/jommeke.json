@@ -74,6 +74,21 @@
             {
                 "default": true,
                 "next":{
+                    "hruid": "org-dwengo-jommeke-fotos-voorstellen",
+                    "version": "1",
+                    "language": "nl"
+                }
+            }
+        ]
+      },
+      {
+          "learningobject_hruid": "org-dwengo-jommeke-fotos-voorstellen",
+          "language": "nl",
+          "version": "1",
+          "transitions": [
+            {
+                "default": true,
+                "next":{
                     "hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
                     "version": "1",
                     "language": "nl"
