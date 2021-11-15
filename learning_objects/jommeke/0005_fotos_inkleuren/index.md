@@ -2,7 +2,7 @@
 hruid: org-dwengo-jommeke-fotos-inkleuren
 version: 1
 language: nl
-title: "Voorbeelden AI-systemen"
+title: "Foto's inkleuren"
 description: "Is de mens accurater dan een AI-systeem?"
 keywords: ["AI", "AI-systeem", "artificiële intelligentie"]
 content_type: "text/markdown"
