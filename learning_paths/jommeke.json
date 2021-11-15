@@ -59,7 +59,7 @@
             {
                 "default": true,
                 "next":{
-                    "hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
+                    "hruid": "org-dwengo-jommeke-fotos-inkleuren",
                     "version": "1",
                     "language": "nl"
                 }
@@ -67,7 +67,7 @@
         ]
       },
       {
-          "learningobject_hruid": "org-dwengo-jommeke-reflectie-problemen-ai-systemen",
+          "learningobject_hruid": "org-dwengo-jommeke-fotos-inkleuren",
           "language": "nl",
           "version": "1",
           "transitions": [
