@@ -26,7 +26,7 @@ Hieronder zie je de oplossing van de vraag op de vorige pagina. Hoeveel afbeeldi
 
 
 | **Afbeelding** | **Origineel of gegenereerd?** |
-|---------------------------|---|
+|---------------------------|:---:|
 | ![Vraag 1](turing/original/1.png) | origineel |
 | ![Vraag 2](turing/generated/7.png) | gegenereerd |
 | ![Vraag 3](turing/generated/11.png) | gegenereerd |
