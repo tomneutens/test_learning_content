@@ -37,6 +37,7 @@ Oefening
 
 TODO bron
 
+
  **Waarom heb je voor de ene of de andere foto gekozen?**
 
 
