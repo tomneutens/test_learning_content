@@ -1,5 +1,5 @@
 ---
-hruid: test-gift-test
+hruid: test-gift-test-2
 version: 1
 language: nl
 title: "This is a GIFT test format example"
