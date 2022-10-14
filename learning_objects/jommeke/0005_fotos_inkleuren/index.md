@@ -29,13 +29,10 @@ Oefening
 
  De volgende foto werd genomen door Sergei Mikhailovich Prokudin-Gorskii in het Russische rijk ergens tussen 1905 en 1915. Je ziet hieronder drie weergaven van dezelfde foto. Twee van de weergaven zijn bewerkt, een is het origineel. Welke foto is volgens jou het origineel?
 
- TODO: Zoek uit hoe hier een quiz van gemaakt kan worden in liascript
 
  ![Versie 1](img/image17.png)
  ![Versie 2](img/image10.png)
  ![Versie 3](img/image1.jpg)
-
-TODO bron
 
 
 
