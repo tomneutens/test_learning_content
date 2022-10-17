@@ -32,7 +32,6 @@ teacher_exclusive: false
 
 
 <context>
-### Context
 ![Face](ct_face.png)
 <div style="position:absolute;right:0px;width:50%;height:100px;margin-top:-100px">Kan een computer dier- en plantensoorten herkennen?</div>
 </context>
