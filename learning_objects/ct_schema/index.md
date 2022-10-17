@@ -35,7 +35,7 @@ teacher_exclusive: false
 # Context test test test test
 </context>
 <decomposition>
-## decompostion
+## decompostion mskdf mqksjdf mqskd
 </decomposition>
 <patternRecognition>### patterns</patternRecognition>
 <abstraction>abstraction</abstraction>
