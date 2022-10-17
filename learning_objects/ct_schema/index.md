@@ -34,7 +34,9 @@ teacher_exclusive: false
 <context>
 ### Context
 <div class="header_container" style="display: flex;flex-direction:row">
-<span style="width:30%">![Face](appels_en_peren.png)</span><span style="width:70%">Kan een computer dier- en plantensoorten herkennen?</span>
+<span style="width:30%">
+![Face](appels_en_peren.png)
+</span><span style="width:70%">Kan een computer dier- en plantensoorten herkennen?</span>
 </div>
 </context>
 <decomposition>
