@@ -41,7 +41,11 @@ teacher_exclusive: false
 <abstraction>abstraction</abstraction>
 <algorithms>algorithms</algorithms>
 <implementation>
-[Duck Duck Go](https://duckduckgo.com)
+[Duck Duck Go](https://duckduckgo.com) 
+
+qsdfùkljml 
+
+qsdfqs
 </implementation>
 
 
