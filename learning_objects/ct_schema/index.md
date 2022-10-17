@@ -32,6 +32,7 @@ teacher_exclusive: false
 
 
 <context>
+### Context
     <div class="header_container" style="display: flex;flex-direction:row">
         <img src="ct_face.png" style="width:30%"/><span style="width:70%">Kan een computer dier- en plantensoorten herkennen?</span>
     </div>
