@@ -33,11 +33,8 @@ teacher_exclusive: false
 
 <context>
 ### Context
-<div class="header_container" style="display: flex;flex-direction:row">
-<span style="width:30%">
 ![Face](appels_en_peren.png)
-</span><span style="width:70%">Kan een computer dier- en plantensoorten herkennen?</span>
-</div>
+<span style="float: right%;width:70%">Kan een computer dier- en plantensoorten herkennen?</span>
 </context>
 <decomposition>
 Dit probleem kunnen we bijvoorbeeld opsplitsen in twee belangrijke subtaken (**decompositie**):
