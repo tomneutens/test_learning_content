@@ -32,8 +32,9 @@ teacher_exclusive: false
 
 
 <context>
-# Kan een computer dier- en plantensoorten herkennen?
-
+    <div class="header_container" style="display: flex;flex-direction:row">
+        <img src="ct_face.png" style="width:30%"/><span style="width:70%">Kan een computer dier- en plantensoorten herkennen?</span>
+    </div>
 </context>
 <decomposition>
 Dit probleem kunnen we bijvoorbeeld opsplitsen in twee belangrijke subtaken (**decompositie**):
