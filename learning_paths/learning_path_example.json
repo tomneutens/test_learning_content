@@ -14,22 +14,22 @@
         {
           "default": true,
           "next": {
-            "hruid": "extern-test-v1",
-            "version": "1",
+            "hruid": "test-v4",
+            "version": "3",
             "language": "nl"
           }
         }
       ]
     },
     {
-      "learningobject_hruid": "extern-test-v1",
+      "learningobject_hruid": "test-v4",
       "language": "nl",
-      "version": "1",
+      "version": "3",
       "transitions": [
         {
           "default": true,
           "next": {
-            "hruid": "blockly-test-combined",
+            "hruid": "blockly-test-1",
             "version": "1",
             "language": "nl"
           }
