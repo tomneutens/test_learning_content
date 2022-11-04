@@ -31,7 +31,3 @@ skos_concepts: [
 ---
 
 
-
-
-
-
